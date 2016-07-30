@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR Test.CSharp", "AR Test.CSharp.csproj", "{2D7CADA4-40F8-3142-8E3D-2DD162962700}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR Test.CSharp.Editor", "AR Test.CSharp.Editor.csproj", "{BB5ABA73-D28A-06C3-A862-8F2317F555BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D7CADA4-40F8-3142-8E3D-2DD162962700}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D7CADA4-40F8-3142-8E3D-2DD162962700}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D7CADA4-40F8-3142-8E3D-2DD162962700}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D7CADA4-40F8-3142-8E3D-2DD162962700}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB5ABA73-D28A-06C3-A862-8F2317F555BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB5ABA73-D28A-06C3-A862-8F2317F555BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB5ABA73-D28A-06C3-A862-8F2317F555BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB5ABA73-D28A-06C3-A862-8F2317F555BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
